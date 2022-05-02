@@ -1,5 +1,4 @@
-## em dupla com o alan
-
+## em dupla com o Allan Tayamichi
 
 package labirinto;
 
