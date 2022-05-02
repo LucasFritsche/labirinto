@@ -1,3 +1,6 @@
+## em dupla com o alan
+
+
 package labirinto;
 
 import java.io.BufferedReader;
